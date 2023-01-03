@@ -22,7 +22,7 @@ def get():
 ipretrieved = get()
 
 #paste your Discord Webhook URL in the ""
-webhook = DiscordWebhook(url="https://discord.com/api/webhooks/1055569104905453589/NecAx0SnoVKl5HnuhsJAs0mCVFHiSlRBLyKD8xMy2oIVixbMvAQK8uN2XhY3-JC_qxCB")
+webhook = DiscordWebhook(url="PASTE YOUR URL HERE")
 
 #color in HEX format "" or in RGB without the ""
 #examples:
